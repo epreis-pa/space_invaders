@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18bcfa9d-6486-4732-98c0-ea95783e57f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUSGwCFoKq6vcx6sQ7oeIgoZe2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/space_invaders.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pygame_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pygame_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/space_invaders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pygame_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18bcfa9d-6486-4732-98c0-ea95783e57f6" name="Default Changelist" comment="" />
+      <created>1584892087700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584892087700</updated>
+      <workItem from="1584892099027" duration="87000" />
+      <workItem from="1584892235590" duration="8452000" />
+      <workItem from="1584960412125" duration="673000" />
+      <workItem from="1585077624067" duration="1626000" />
+      <workItem from="1585129981566" duration="17557000" />
+      <workItem from="1585213072330" duration="5310000" />
+      <workItem from="1585405828169" duration="1019000" />
+      <workItem from="1585563952371" duration="4917000" />
+      <workItem from="1585593867069" duration="982000" />
+      <workItem from="1585732267895" duration="8288000" />
+      <workItem from="1585762415401" duration="67000" />
+      <workItem from="1586081291271" duration="7499000" />
+      <workItem from="1586109710888" duration="744000" />
+      <workItem from="1586176511435" duration="5849000" />
+      <workItem from="1586253208936" duration="1889000" />
+      <workItem from="1586338915044" duration="424000" />
+      <workItem from="1586339452859" duration="10000" />
+      <workItem from="1586339489595" duration="26286000" />
+      <workItem from="1586419056764" duration="2876000" />
+      <workItem from="1586427174381" duration="6190000" />
+      <workItem from="1586433440190" duration="8000" />
+      <workItem from="1586433555767" duration="3000" />
+      <workItem from="1586434101044" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586434124316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586434124316" />
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586339031434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586339031434" />
+    <state x="674" y="141" key="#pygame_test" timestamp="1586434119112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="141" key="#pygame_test/0.0.1920.1040@0.0.1920.1040" timestamp="1586434119112" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1586434148072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586434148072" />
+    <state x="788" y="430" width="368" height="179" key="Github.CreateGistDialog" timestamp="1586095565331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="430" width="368" height="179" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586095565331" />
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom" timestamp="1586439258284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586439258284" />
+    <state width="1877" height="157" key="GridCell.Tab.0.center" timestamp="1586439258284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586439258284" />
+    <state width="1877" height="157" key="GridCell.Tab.0.left" timestamp="1586439258284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586439258284" />
+    <state width="1877" height="157" key="GridCell.Tab.0.right" timestamp="1586439258284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586439258284" />
+    <state width="1877" height="326" key="GridCell.Tab.1.bottom" timestamp="1586384024228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586384024228" />
+    <state width="1877" height="326" key="GridCell.Tab.1.center" timestamp="1586384024228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586384024228" />
+    <state width="1877" height="326" key="GridCell.Tab.1.left" timestamp="1586384024228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586384024228" />
+    <state width="1877" height="326" key="GridCell.Tab.1.right" timestamp="1586384024228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586384024228" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1586095796159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586095796159" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1586434102721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586434102721" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586095734776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586095734776" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pygame_practice$pygame_test.coverage" NAME="pygame_test Coverage Results" MODIFIED="1586106972989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/space_invaders$pygame_test.coverage" NAME="pygame_test Coverage Results" MODIFIED="1586439258276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
